@@ -1,0 +1,16 @@
+{
+  "name": "flowtype-interface-generator",
+  "version": "0.0.0",
+  "description": "A tool that generates Flow interface files from documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mktemp": "^0.4.0",
+    "rimraf": "^2.5.2"
+  }
+}
